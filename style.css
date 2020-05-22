@@ -123,6 +123,7 @@
 #heading3{
     margin: auto;
     padding: 35px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #marquee{
     margin: 35px;
@@ -131,6 +132,7 @@
     background-color: rgb(30, 30, 30);
     color: beige;
     text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #footer img{
     height: 32px;
@@ -142,23 +144,28 @@
     color: black;
     padding: 50px;
     margin: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 } 
 #heading5{
     text-align: center;
     color: black;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 } 
 #about{
     text-align: center;
     color: rgb(34, 34, 34);
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 20px;
     padding: 20px;
     background-color: beige;
 }
 #heading4{
     padding: 10px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #heading5{
     padding: 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #about img{
     height: 310px;
@@ -175,4 +182,5 @@
 }
 #aboutus{
     padding: 15px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
