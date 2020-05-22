@@ -1,0 +1,178 @@
+#heading{
+    text-align: center;
+    margin: auto;
+    padding: 35px;
+}
+#navb{
+    background-color:beige !important;
+    font-weight: bold !important;
+}
+#omenu:hover{
+    background-color: rgb(165, 148, 50) !important;
+    color: white !important;
+}
+.carouselExampleCaptions img{
+    width: 100%;
+    height: 100%;
+}
+.menu button{
+    transition-duration: 0.2s;
+}
+#heading2{
+    text-align: center;
+    color: black;
+    padding: 35px;
+    margin: auto;
+}
+#types .column{
+    width: 370px;
+    height: 350px;
+    border: 10px solid white;
+    border-radius: 5px;
+    margin: 35px;
+    background-color: white;
+    box-shadow: 7px 7px 7px 7px rgb(233, 231, 231);
+    font-weight: bolder;
+    font-size: x-large;
+    color: white;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    align-content: center;
+}
+#types .column{
+    transition: all .2s ease-in-out;
+}
+#types .column:hover {
+     transform: scale(1.1); 
+}
+
+#heading3{
+    text-align: center;
+    color: black;
+    padding: 50px;
+    margin: auto;
+} 
+#catag #bars{
+    width: 370px;
+    height: 305px;
+    float: left;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    align-content: center;
+    display: flex;
+    border: transparent;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("bars.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 35px;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+#catag #bars:hover{
+    color: rgb(228, 194, 4);
+    filter: brightness(150%);
+}
+#catag #truffles{
+    width: 370px;
+    height: 305px;
+    float: left;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    align-content: center;
+    display: flex;
+    border: transparent;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("Truffles.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 35px;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+#catag #truffles:hover{
+    color: rgb(228, 194, 4);
+    filter: brightness(150%);
+}
+#catag #chocolate_chips{
+    width: 370px;
+    height: 305px;
+    float: left;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    align-content: center;
+    display: flex;
+    border: transparent;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("chocolate_chips.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 35px;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+#catag #chocolate_chips:hover{
+    color: rgb(228, 194, 4);
+    filter: brightness(150%);
+}
+#heading3{
+    margin: auto;
+    padding: 35px;
+}
+#marquee{
+    margin: 35px;
+}
+#footer{
+    background-color: rgb(30, 30, 30);
+    color: beige;
+    text-align: center;
+}
+#footer img{
+    height: 32px;
+    width: 32px;
+    color: white;
+}
+#heading4{
+    text-align: center;
+    color: black;
+    padding: 50px;
+    margin: auto;
+} 
+#heading5{
+    text-align: center;
+    color: black;
+} 
+#about{
+    text-align: center;
+    color: rgb(34, 34, 34);
+    font-size: 20px;
+    padding: 20px;
+    background-color: beige;
+}
+#heading4{
+    padding: 10px;
+}
+#heading5{
+    padding: 5px;
+}
+#about img{
+    height: 310px;
+    width: 570px;
+    /* box-shadow:  rgb(177, 167, 110) 5px 5px 5px 5px ; */
+    border: black;
+    border-style: outset;
+}
+#quote{
+    margin: auto;
+}
+#abt{
+    margin: auto;
+}
+#aboutus{
+    padding: 15px;
+}
