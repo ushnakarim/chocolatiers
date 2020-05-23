@@ -1,0 +1,70 @@
+body{
+    background-color: beige;
+}
+.form-box{
+    padding: 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    align-content: center;
+    text-align: center;
+}
+form{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 30px;
+}
+button{
+    border-radius: 15px;
+    border: rgb(32, 32, 32);
+    width: 75px;
+    height: 45px;
+    background-color:  rgb(32, 32, 32);
+    color:beige;
+    font-size: 15px;
+    margin: 50px;
+}
+#tb{
+    background-color: rgb(30, 30, 30);
+    height: 35px !important;
+    border-radius: 10px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:beige;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:beige;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: beige;
+  }
+#footer{
+    background-color: rgb(30, 30, 30);
+    color: beige;
+    text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+} 
+#footer img{
+    height: 32px;
+    width: 32px;
+    color: white;
+}
+#heading4{
+    text-align: center;
+    color: black;
+    padding: 50px;
+    margin: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+} 
+#heading5{
+    text-align: center;
+    color: black;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
